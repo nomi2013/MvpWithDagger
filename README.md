@@ -3,7 +3,7 @@ Mvp design pattern implementation with dagger2 and rxJava.
 
 # Mvp pattern is:
 Model -> Your data class like pojo or accessing from database.
-View -> View where users interact, its will delegate its task to presenter.
+View -> View where users interact, it will delegate its task to presenter.
 Presenter - > Your activty or fragment logic handing done here.
 
 # Dagger2 uses:
